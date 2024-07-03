@@ -1,0 +1,5 @@
+user_id,email,email_top_level_domain
+1,cool@example.com,example.com
+2,cool@unknown.com,unknown.com
+3,badgmail.com,gmail.com
+4,missingdot@gmailcom,gmail.com
